@@ -30,7 +30,7 @@ Include the following code into your configuration file:
 ## Screenshots
 
   <p align="center">
-    <img width="600" alt="Modern icons for LSP" src="screenshots/modern-icons-dired.png"/>
+    <img width="600" alt="Modern icons for dired-mode" src="screenshots/modern-icons-dired.png"/>
   </p>
 
 ## Acknowledgements

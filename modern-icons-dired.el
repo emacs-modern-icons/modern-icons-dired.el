@@ -110,7 +110,7 @@ FUNC is one of the dired functions that display files."
     (message "Modern-icons-dired is enabled!")))
 
 (defun modern-icons-dired-disable ()
-  "Disable `modern-icons-lsp'."
+  "Disable `modern-icons-dired'."
   (interactive)
   ;; Disable icons in the current dired buffer.
   (when (derived-mode-p 'dired-mode)
