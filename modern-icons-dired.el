@@ -5,7 +5,7 @@
 ;; Author: Ta Quang Trung <taquangtrungvn@gmail.com>
 ;; Version: 0.1.0
 ;; Created: April 06, 2025
-;; Homepage: https://github.com/taquangtrung/modern-icons.el
+;; Homepage: https://github.com/emacs-modern-icons/modern-icons-dired.el
 ;; Package-Requires: ((emacs "28.1"))
 ;; Keywords: lisp, icons, dired
 
